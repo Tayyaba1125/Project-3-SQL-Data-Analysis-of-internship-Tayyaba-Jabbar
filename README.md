@@ -57,7 +57,7 @@ Extracting business insights from an e-commerce orders dataset using SQL Server.
 ![GROUP BY with ORDER BY DESC](group%20by%20with%20order%20by%20desc.png)
 
 ### 11. HAVING Clause
-![HAVING Clause](Having.png)
+![HAVING Clause](Having%20.png)
 
 ### 12. HAVING with COUNT
 ![HAVING with COUNT](having%20with%20count.png)
@@ -65,13 +65,10 @@ Extracting business insights from an e-commerce orders dataset using SQL Server.
 ### 13. Aggregate Function - COUNT
 ![COUNT](aggregate%20function%28count%29.png)
 
-### 14. Aggregate Functions - SUM, AVG, COUNT
-![SUM AVG COUNT](aggregate%20function%28sum%2Cavg%2Ccount%29.png)
-
-### 15. Aggregate Functions - MAX, MIN
+### 14. Aggregate Functions - MAX and MIN
 ![MAX MIN](aggregate%20functions%28max%2Cmin%29.png)
 
-### 16. Percentage Contribution
+### 15. Percentage Contribution
 ![Percentage Contribution](Percentage%20Contribution.png)
 
 ## Tool
