@@ -3,7 +3,7 @@
 Extracting business insights from an e-commerce orders dataset using SQL Server.
 
 ## Dataset
-`Cleaned_Dataset.csv` has 1,200 orders and 14 columns
+`Cleaned_Dataset.xlsx` has 1,200 orders and 14 columns
 
 ## Skills Used
 - `SELECT`, `TOP`, column aliases
@@ -14,9 +14,10 @@ Extracting business insights from an e-commerce orders dataset using SQL Server.
 - Window function for percentage contribution (`SUM() OVER ()`)
 
 ## Files
-- `Project 3 intership.sql`: all queries with comments and expected results
-- `Cleaned_Dataset.xlsx`: dataset
-SQL query outputs from SQL Server Management Studio are available as PNG files in the repository.
+
+- `Project 3 intership.sql`: All SQL queries with comments.
+- `Cleaned_Dataset.xlsx`: Dataset containing 1,200 orders and 14 columns.
+- PNG files: SQL query output screenshots from SQL Server Management Studio.
 
 ## Key Insights
 - Total revenue is about 1,264,762, with an average order value of about 1,054.
