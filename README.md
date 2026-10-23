@@ -25,51 +25,18 @@ Extracting business insights from an e-commerce orders dataset using SQL Server.
 - Cancelled orders include high-value items: Chair (3,384.90), Tablet (3,370.20), Monitor (3,253.60) and Printer (3,215.15) each had a cancelled order above 3,215.
 
 ## Screenshots
+## Screenshots
 
-### 1. SELECT Query
-![SELECT Query](Select.png)
+### 1. Aggregate Functions
+![Aggregate Functions](aggregate%20function(sum,avg,count).png)
 
-### 2. SELECT with WHERE
-![SELECT with WHERE](Select%20with%20where.png)
-
-### 3. WHERE Clause
-![WHERE Clause](select%20with%20where%20clause.png)
-
-### 4. AND Operator
-![AND Operator](AND.png)
-
-### 5. LIKE Operator
-![LIKE Operator](Like.png)
-
-### 6. TOP Query
-![TOP Query](Top.png)
-
-### 7. ORDER BY DESC
-![ORDER BY DESC](Total%20price%20desc.png)
-
-### 8. GROUP BY
-![GROUP BY](group%20by.png)
-
-### 9. GROUP BY with ORDER BY
-![GROUP BY with ORDER BY](group%20by%20with%20order%20by.png)
-
-### 10. GROUP BY with ORDER BY DESC
+### 2. GROUP BY with ORDER BY DESC
 ![GROUP BY with ORDER BY DESC](group%20by%20with%20order%20by%20desc.png)
 
-### 11. HAVING Clause
-![HAVING Clause](Having%20.png)
-
-### 12. HAVING with COUNT
-![HAVING with COUNT](having%20with%20count.png)
-
-### 13. Aggregate Function - COUNT
-![COUNT](aggregate%20function%28count%29.png)
-
-### 14. Aggregate Functions - MAX and MIN
-![MAX MIN](aggregate%20functions%28max%2Cmin%29.png)
-
-### 15. Percentage Contribution
+### 3. Percentage Contribution
 ![Percentage Contribution](Percentage%20Contribution.png)
+
+
 
 ## Tool
 Microsoft SQL Server 
