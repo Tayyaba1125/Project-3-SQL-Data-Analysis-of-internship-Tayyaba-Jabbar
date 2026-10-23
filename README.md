@@ -14,7 +14,7 @@ Extracting business insights from an e-commerce orders dataset using SQL Server.
 - Window function for percentage contribution (`SUM() OVER ()`)
 
 ## Files
-- `Project_3_intership.sql`: all queries with comments and expected results
+- `Project 3 intership.sql`: all queries with comments and expected results
 - `Cleaned_Dataset.xlsx`: dataset
 SQL query outputs from SQL Server Management Studio are available as PNG files in the repository.
 
