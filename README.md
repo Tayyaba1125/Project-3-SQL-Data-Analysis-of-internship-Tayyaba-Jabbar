@@ -14,9 +14,9 @@ Extracting business insights from an e-commerce orders dataset using SQL Server.
 - Window function for percentage contribution (`SUM() OVER ()`)
 
 ## Files
-- `Project3_SQL_Analysis.sql`: all queries with comments and expected results
-- `Cleaned_Dataset.csv`: dataset
-- `screenshots/`: query outputs from SQL Server Management Studio
+- `Project_3_intership.sql`: all queries with comments and expected results
+- `Cleaned_Dataset.xlsx`: dataset
+SQL query outputs from SQL Server Management Studio are available as PNG files in the repository.
 
 ## Key Insights
 - Total revenue is about 1,264,762, with an average order value of about 1,054.
@@ -24,7 +24,7 @@ Extracting business insights from an e-commerce orders dataset using SQL Server.
 - 497 of 1,200 orders (about 41%) were Cancelled or Returned, which points to a major area for improvement.
 - Cancelled orders include high-value items: Chair (3,384.90), Tablet (3,370.20), Monitor (3,253.60) and Printer (3,215.15) each had a cancelled order above 3,215.
 
-## Screenshots
+
 ## Screenshots
 
 ### 1. Aggregate Functions
@@ -36,7 +36,7 @@ Extracting business insights from an e-commerce orders dataset using SQL Server.
 ### 3. Percentage Contribution
 ![Percentage Contribution](Percentage%20Contribution.png)
 
-
+**Note:** The remaining SQL query output screenshots are available as PNG files in the repository.
 
 ## Tool
 Microsoft SQL Server 
